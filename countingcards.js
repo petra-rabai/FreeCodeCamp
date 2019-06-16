@@ -24,11 +24,11 @@ function cc(card) {
             break;
     }
     if (count > 0) {
-        result = count + "Bet";
+        result = count + " Bet";
     }
     else
     {
-        result = count + "Hold";
+        result = count + " Hold";
     }
     return result;
     // Only change code above this line
